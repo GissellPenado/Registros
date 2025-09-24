@@ -12,5 +12,6 @@ namespace Productos.Modelos
         public string Nombre { get; set; }
         public double Precio { get; set; }
         public Boolean IVA { get; set; }
+        public String Código { get; set; }
     }
 }
