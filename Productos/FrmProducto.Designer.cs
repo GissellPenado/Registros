@@ -1,6 +1,6 @@
 ﻿namespace Productos
 {
-    partial class Form1
+    partial class FrmProducto
     {
         /// <summary>
         /// Variable del diseñador necesaria.

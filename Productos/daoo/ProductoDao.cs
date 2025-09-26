@@ -28,7 +28,10 @@ namespace Productos.daoo
         }
         public Producto[] VerCarrito()
         {
+
             return carrito;
         }
+
+      
     }
 }
